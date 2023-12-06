@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\vd112\source\repos\parallel_prog\parallel_prog\main.cpp(451,24): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\vd112\source\repos\parallel_prog\parallel_prog\main.cpp(531,47): warning C4244: =: преобразование "size_t" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\vd112\source\repos\parallel_prog\parallel_prog\main.cpp(307,19): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\vd112\source\repos\parallel_prog\parallel_prog\main.cpp(598,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "auto run_experiment<double(__cdecl *)(const double *,size_t)>(F,const double *,size_t)"
+          with
+          [
+              F=double (__cdecl *)(const double *,size_t)
+          ]
+C:\Users\vd112\source\repos\parallel_prog\parallel_prog\main.cpp(314,22): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\vd112\source\repos\parallel_prog\parallel_prog\main.cpp(317,16): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  parallel_prog.vcxproj -> C:\Users\vd112\source\repos\parallel_prog\x64\Debug\parallel_prog.exe
